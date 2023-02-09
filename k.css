@@ -1,0 +1,46 @@
+#big-box{
+  background-color: rgb(255, 0, 0);
+  height: 400px;
+  width: 400px;
+  position: relative;
+  left: 700px;
+  
+}
+#pix{
+  height: 300px;
+  width: 300px;
+  position: relative;
+  left:50px;
+  
+  
+  /* border-width:23px;
+  border-color: black;
+  border-style: solid; */
+  border: 10px rgb(12, 12, 12) solid;
+  
+}
+#k{
+  color: black;
+  font-family: Arial, Helvetica, sans-serif;
+  position: relative;
+  left: 50px;
+}
+#H{
+  height: 300px;
+  width: 300px;
+  position: relative;
+  left: 700px;
+  border: 300px;
+  color: rgb(0, 0, 0);
+  
+
+}
+body{
+  background-image: url(./hacking-4839031_960_720.jpg);
+  background-size:1240px;
+  background-position: 5000px;
+  
+}
+
+
+
